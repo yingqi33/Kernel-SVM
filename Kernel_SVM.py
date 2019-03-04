@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt
 def prepare_data(num=[1, 3, 5, 7, 9]):
     ## valid_digits is a vector containing the digits
     ## we wish to classify.
-    ## Do not change anything inside of this function
     data = ds.load_digits()
     labels = data['target']
     features = data['data']
