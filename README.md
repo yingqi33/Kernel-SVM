@@ -1,4 +1,4 @@
-# kernel-SVM
+# Kernel-SVM
 
 In machine learning, kernel methods are a class of algorithms for pattern analysis. 
 The kernel trick aims to transform data into another dimension which has a clear dividing margin between classes of data.
